@@ -119,6 +119,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# root_dir: http://localhost:8888
+category_dir: categories/
+tag_dir: tag/
+categories: [Data_preprocessing, Visualizing Data, Statistics, PerfectGuide(ML)_Q&A]
+
+
 # Site Footer
 footer:
   links:
